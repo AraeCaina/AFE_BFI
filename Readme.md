@@ -1,0 +1,1 @@
+# Exemplo de um shiny para análise fatorial
