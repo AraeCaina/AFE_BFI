@@ -1,0 +1,12 @@
+name: AFEBfi
+title: AFEBfi
+username:
+account: arae
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4033160
+bundleId: 4521348
+url: https://arae.shinyapps.io/AFEBfi/
+when: 1619454932.43575
+asMultiple: FALSE
+asStatic: FALSE
